@@ -1,4 +1,4 @@
-package com.lokalina.sharingsession
+package com.dev.sharingsession
 
 import org.junit.Test
 

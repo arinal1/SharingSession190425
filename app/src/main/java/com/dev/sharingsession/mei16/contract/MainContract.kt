@@ -1,4 +1,4 @@
-package com.lokalina.sharingsession.mei16.contract
+package com.dev.sharingsession.mei16.contract
 
 interface MainContract {
     interface View {

@@ -1,10 +1,10 @@
-package com.lokalina.sharingsession.mei16.view
+package com.dev.sharingsession.mei16.view
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
-import com.lokalina.sharingsession.R
-import com.lokalina.sharingsession.mei16.contract.MainContract.View
-import com.lokalina.sharingsession.mei16.presenter.MainPresenter
+import com.dev.sharingsession.R
+import com.dev.sharingsession.mei16.contract.MainContract.View
+import com.dev.sharingsession.mei16.presenter.MainPresenter
 import kotlinx.android.synthetic.main.activity_counter.*
 
 class MainActivity : AppCompatActivity(), View {

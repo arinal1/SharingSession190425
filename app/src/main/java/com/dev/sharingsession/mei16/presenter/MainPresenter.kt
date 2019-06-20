@@ -1,8 +1,8 @@
-package com.lokalina.sharingsession.mei16.presenter
+package com.dev.sharingsession.mei16.presenter
 
-import com.lokalina.sharingsession.mei16.contract.MainContract.Presenter
-import com.lokalina.sharingsession.mei16.contract.MainContract.View
-import com.lokalina.sharingsession.mei16.model.MainModel
+import com.dev.sharingsession.mei16.contract.MainContract.Presenter
+import com.dev.sharingsession.mei16.contract.MainContract.View
+import com.dev.sharingsession.mei16.model.MainModel
 
 class MainPresenter (private val view: View): Presenter {
 

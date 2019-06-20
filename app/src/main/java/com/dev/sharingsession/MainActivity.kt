@@ -1,4 +1,4 @@
-package com.lokalina.sharingsession
+package com.dev.sharingsession
 
 import android.app.Activity
 import android.app.DatePickerDialog
@@ -9,7 +9,6 @@ import android.os.Bundle
 import android.view.View
 import android.widget.Toast
 import kotlinx.android.synthetic.main.activity_main.*
-import org.jetbrains.anko.startActivity
 import org.jetbrains.anko.startActivityForResult
 
 class MainActivity : AppCompatActivity() {

@@ -1,4 +1,4 @@
-package com.lokalina.sharingsession
+package com.dev.sharingsession
 
 import android.content.Intent
 import android.support.v7.app.AppCompatActivity

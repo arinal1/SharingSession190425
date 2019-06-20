@@ -1,6 +1,6 @@
-package com.lokalina.sharingsession.mei16.model
+package com.dev.sharingsession.mei16.model
 
-import com.lokalina.sharingsession.mei16.contract.MainContract.Model
+import com.dev.sharingsession.mei16.contract.MainContract.Model
 
 class MainModel : Model {
 

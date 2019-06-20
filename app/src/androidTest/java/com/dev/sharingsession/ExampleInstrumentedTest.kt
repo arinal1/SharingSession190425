@@ -1,4 +1,4 @@
-package com.lokalina.sharingsession
+package com.dev.sharingsession
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
