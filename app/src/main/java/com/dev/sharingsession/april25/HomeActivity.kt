@@ -1,8 +1,9 @@
-package com.dev.sharingsession
+package com.dev.sharingsession.april25
 
 import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.dev.sharingsession.R
 import kotlinx.android.synthetic.main.activity_home.*
 
 class HomeActivity : AppCompatActivity() {
